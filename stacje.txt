@@ -1,0 +1,13 @@
+RMF FM|http://195.150.20.242:8000/rmf_fm|
+RMF MAXX|http://195.150.20.242:8000/rmf_maxxx|
+Radio ZET|http://n-11-22.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx|https://rds.eurozet.pl/reader/var/radiozet.json
+ESKA|https://ic2.smcdn.pl/2380-1.mp3|
+Rock Radio|https://radiostream.pl/tuba8-1.mp3?cache=1650763965|
+Antyradio|http://n-11-22.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx|https://rds.eurozet.pl/reader/var/antyradio.json
+Polskie Radio JEDYNKA|http://mp3.polskieradio.pl:8900/;|
+MELO Radio|http://n-11-25.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx|https://rds.eurozet.pl/reader/var/zetgold.json
+Zlote Przeboje|https://radiostream.pl/tuba8926-1.mp3|
+Polskie Radio TROJKA|http://mp3.polskieradio.pl:8904/;|
+Radio ELKA|https://rs103-krk.rmfstream.pl/audioxi_elka|
+Muzyczne Radio|http://stream3.technologicznie.net/muzyczne_radio_192.mp3|https://www.muzyczneradio.pl/current_playing.txt
+Polskie Radio CZWORKA|http://mp3.polskieradio.pl:8906/;|
