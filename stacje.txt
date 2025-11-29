@@ -10,4 +10,4 @@ Zlote Przeboje|https://radiostream.pl/tuba8926-1.mp3|
 Polskie Radio TROJKA|http://mp3.polskieradio.pl:8904/;|
 Radio ELKA|https://rs103-krk.rmfstream.pl/audioxi_elka|
 Muzyczne Radio|http://stream3.technologicznie.net/muzyczne_radio_192.mp3|https://www.muzyczneradio.pl/current_playing.txt
-Polskie Radio CZWORKA|http://mp3.polskieradio.pl:8906/;|
+Polskie Radio CZWORKA|http://stream3.polskieradio.pl:8956/;|
