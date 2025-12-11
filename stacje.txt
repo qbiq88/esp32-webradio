@@ -18,6 +18,7 @@ Radio Zachod|http://stream02.zachod.pl:10113|
 TOK FM|https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_TOKFM.mp3?dist=gra_www&ppid=none|
 Radio PLUS Legnica|https://player.legnica.fm/listen/radio_plus_legnica/radio256.mp3|
 FREE Radio Luxembourg|https://listen.radioking.com/radio/66160/stream/137599|
+1.FM DEEP HOUSE|https://strm112.1.fm/deephouse_mobile_mp3?aw_0_req.gdpr=true|
 
 
 
