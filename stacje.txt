@@ -7,7 +7,7 @@ Antyradio|http://an01.cdn.eurozet.pl/ant-kat.mp3|https://rds.eurozet.pl/reader/v
 Polskie Radio JEDYNKA|http://mp3.polskieradio.pl:8950/;|
 MELO Radio|https://ml01.cdn.eurozet.pl/mel-ktw.mp3|https://rds.eurozet.pl/reader/var/zetgold.json
 Zlote Przeboje|https://radiostream.pl/tuba8926-1.mp3|
-Polskie Radio TROJKA|http://mp3.polskieradio.pl:8904/;|
+Polskie Radio TROJKA|http://41.dktr.pl:8000/trojka.ogg|
 Radio ELKA|https://rs103-krk.rmfstream.pl/audioxi_elka|
 Muzyczne Radio|https://stream.rcs.revma.com/gzwc1xcq042vv|https://www.muzyczneradio.pl/current_playing.txt
 Polskie Radio CZWORKA|http://mp3.polskieradio.pl:8956/;|
